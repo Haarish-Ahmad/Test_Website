@@ -145,3 +145,37 @@
     margin-top: 16px;
     margin-right: 200px;
 }
+
+.call-to-action {
+    display: flex;
+    margin: 24px 150px;
+    border-radius: 8px;
+    align-items: center;
+    justify-content: space-between; 
+    padding: 50px 100px;
+    background-color: #3882f6;   
+    color: #f9faf8;
+}
+
+.bold {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.call-to-action button {
+    font-size: 16px;
+    background-color: #3882f6;
+    border: 2px solid #e5e7eb;
+    color:#e5e7eb;
+    padding: 8px 32px;
+    border-radius: 8px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    background-color: #1f2937;
+    color: #f9faf8;
+    padding: 32px;
+    font-size: 16px;
+}
